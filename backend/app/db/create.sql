@@ -1,0 +1,3 @@
+CREATE DATABASE forum_dev;
+CREATE DATABASE forum_test;
+CREATE DATABASE forum_prod;
